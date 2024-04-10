@@ -1,0 +1,5 @@
+Version 0:
+Base content of the file.
+Delta content for version 1.
+Delta content for version 2.
+
